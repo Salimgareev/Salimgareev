@@ -17,9 +17,12 @@
   <h3>Frameworks</h3>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
-  
-  <h3>My Stats 📈</h3>
-  <img src="https://www.codewars.com/users/Salimgareev/badges/large"  height="28px"/>
+</div>
+
+<div  align="center">
+  <h2>My Stats 📈</h2>
+  <a href="https://github.com/Salimgareev"><img src="https://www.codewars.com/users/Salimgareev/badges/large" width="50%"/></a>
+  <a href="https://github.com/Salimgareev"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimgareev&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </div>
 
 <!--
