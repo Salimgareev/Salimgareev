@@ -1,12 +1,15 @@
 <div  align="center">
-<!-- <img src="https://github.r2v.ch/codewars?user=Salimgareev&stroke=%23BB432C" /> -->
-  
-  ![Codewars](https://github.r2v.ch/codewars?user=Salimgareev&stroke=%23BB432C)
+
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="100"/>
+    <h1> Всем привет 👋 </h1>
+
+
+  <br/><img src="https://www.codewars.com/users/Salimgareev/badges/large" width="50%"/><br/><br/><br/>
 </div>
 
 <!--
-**Salimgareev/Salimgareev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**Salimgareev/Salimgareev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
