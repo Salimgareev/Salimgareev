@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
   
   <h3>My Stats 📈</h3>
-  <img src="https://www.codewars.com/users/Salimgareev/badges/large" width="30%"/>
+  <img src="https://www.codewars.com/users/Salimgareev/badges/large"  height="28px"/>
 </div>
 
 <!--
