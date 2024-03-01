@@ -1,4 +1,8 @@
-![Codewars](https://github.r2v.ch/codewars?user=Salimgareev&stroke=%23BB432C)
+<div  align="center">
+<!-- <img src="https://github.r2v.ch/codewars?user=Salimgareev&stroke=%23BB432C" /> -->
+  
+  ![Codewars](https://github.r2v.ch/codewars?user=Salimgareev&stroke=%23BB432C)
+</div>
 
 <!--
 **Salimgareev/Salimgareev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
