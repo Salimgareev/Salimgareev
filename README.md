@@ -15,8 +15,12 @@
 </div>
 <div align="center">
   <h2>Stats and Analytics 📈</h2>
-  <a href="https://github.com/Salimgareev"><img src="https://www.codewars.com/users/Salimgareev/badges/large" width="50%"/></a>
-  <a href="https://github.com/Salimgareev"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimgareev&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <div>
+    <a href="https://github.com/Salimgareev"><img src="https://www.codewars.com/users/Salimgareev/badges/large" width="350"/></a>
+  </div>
+  <div>
+    <a href="https://github.com/Salimgareev"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimgareev&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  </div>
 </div>
 
 <!--
